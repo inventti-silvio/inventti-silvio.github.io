@@ -189,3 +189,7 @@ ul.dropdown-menu>li>a>i.fa {
     width: 1.3em;
 }
 
+.md-image {
+    width: 150px;
+    height: 150px;
+}

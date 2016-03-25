@@ -14,7 +14,7 @@ defaults:
     scope:
       path: "" # empty string for all files
     values:
-      title: dbyll
+      title: Invente 
 
 description: Sharing Blog 
 author:
@@ -22,15 +22,16 @@ author:
   email: silvio.greuel@inventti.com.br 
   github: inventti-silvio 
   twitter: silviogreuel 
-  pinterest: silviogreuel 
+  #pinterest: silviogreuel 
   linkedin: silviogreuel
   bio: TOW!
+  profile: https://pbs.twimg.com/profile_images/2884969533/184e6ef83285fe8d09c579869240f3bd_400x400.jpeg 
 
 rss_path: feed.xml
 categories_path: categories.html
 tags_path: tags.html
 
-sidebar_background_image: https://www.dropbox.com/s/g9h23zrycedxtk5/sky.png?raw=1
+sidebar_background_image: http://apod.nasa.gov/apod/image/1312/horsehead_chumack_1800.jpg
 
 BASE_PATH:
 
